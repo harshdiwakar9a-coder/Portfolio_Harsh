@@ -39,22 +39,5 @@ My first art gallery website built during a workshop.
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshdiwakar9a-coder&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdiwakar9a-coder&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me  
 📧 **Email:** *harshdiwakar9a@gmail.com*
-
----
-
-## 🏆 Fun Quote  
-> *"The best way to predict the future is to create it."*
-
----
-
-⭐ **If you like my work, feel free to star my repositories!**
